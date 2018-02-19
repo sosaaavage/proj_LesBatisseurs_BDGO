@@ -46,12 +46,15 @@ L’objectif est qu’il achève un chantier
 
 
 3 sous-tâches : 
+
  1. Représentation de jeu (représentation des bâtiments, des ouvriers, de l'argent, comptage des points, validité des coups).
 Définition et diagramme de classes métiers (liens entre elles)
 Création des classes (ouvrier, chantier, joueur, ressources)
 Tests unitaires des classes
+
  2. Moteur de jeu (mise en place, gestion des pioches, actions, détermination des points, de la fin de la partie...). → Création des actions
 Modélisation et création de la classe statique de plateau de jeu gérant les actions des tours
- 3. Robots de jeu
+
+ 3. Robots de jeu 
 Modélisation et création de la classe IA simulant les décisions/actions 
 
