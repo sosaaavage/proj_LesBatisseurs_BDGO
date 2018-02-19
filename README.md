@@ -18,22 +18,23 @@ Il faut pour cela réaliser les fonctionnalités suivantes :
 * simulation de parties entre 2 robots ou plus, comptage des points, des victoires et classement entre vos robots.
 visualisation de l'état du jeu (en fin de partie pour commencer, tout au long de la partie ensuite). Cette visualisation devra être textuelle. * Une version graphique N'EST PAS demandée, car impossible dans le temps imparti.
 * Il est demandé deux exécutions (c.f. plus haut pour configurer le pom) : 
-* **[id dans le pom.xml : partie-serveur et partie-client] : une exécution  d'une partie, avec le déroulé visible et compréhensible
-* **[id dans le pom.xml : stat-serveur et stat-client] : une exécution de 500 parties avec vos différents robots/IA, sans autres sorties textuelles que le résumé global : nombre de victoire, moyenne des points.
-* ***cela suppose que votre serveur peut relancer une partie, et que vos clients peuvent se ré-initialiser
-(avertissement) Il ne s'agit pas de réaliser une version interactive de ce jeu (1 ou plusieurs joueurs humains).
-(avertissement) La priorité est donnée à une version à 2 joueurs robots intelligents, plutôt qu'à 3 ou 4 robots assez stupides.
+    * [id dans le pom.xml : partie-serveur et partie-client] : une exécution  d'une partie, avec le déroulé visible et compréhensible
+    * [id dans le pom.xml : stat-serveur et stat-client] : une exécution de 500 parties avec vos différents robots/IA, sans autres sorties textuelles que le résumé global : nombre de victoire, moyenne des points.
+        * cela suppose que votre serveur peut relancer une partie, et que vos clients peuvent se ré-initialiser
+        
+/!\ Il ne s'agit pas de réaliser une version interactive de ce jeu (1 ou plusieurs joueurs humains).
+/!\ La priorité est donnée à une version à 2 joueurs robots intelligents, plutôt qu'à 3 ou 4 robots assez stupides.
 
 ## Equipe
 
-Numéro d'équipe : J
+Numéro d'équipe : **J**
 
 ### Membres de l'équipe
 
-Anthony Gomez
-Florian Demoulin
-Cédric Ortega
-BARRY Ibrahima
+* Anthony Gomez
+* Florian Demoulin
+* Cédric Ortega
+* BARRY Ibrahima
 
 
 
