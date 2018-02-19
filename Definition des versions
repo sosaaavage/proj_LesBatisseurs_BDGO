@@ -1,0 +1,57 @@
+1ère Version : (date début : 20/02 - date fin : 27/02):
+
+Le robot a par défaut 3-4 ouvriers en sa possession 
+Le robot envoi son ouvrier travailler si il a assez d’écu sinon récupère des écus (validité des coups)
+L’objectif est qu’il achève un chantier 
+
+
+
+2ème Version : (date début : 27/02 - date fin : 13/03) :
+
+Si un ouvrier du centre à un coût inférieur au nombre d’écus que possède le joueur, il choisit l’action “ Recruter un ouvrier” 
+
+Implémentation lignes ( 5 ouvriers, 5 bâtiments).
+Gestion des paquets (intelligent) 
+Gestion de la bank (100 pièces)
+
+
+
+3ème Version : (date début : 13/03 - date fin : 20/03):
+Intégration des actions gratuites
+Création du client-serveur
+Gestion des points de victoires
+
+
+
+4ème Version :  (date début : 20/03 - date fin : 27/03)
+Implémentation des machines
+Gestion des actions payantes (5 écus par action)
+
+5ème Version : (date début : 27/03 - date fin : 10/04)
+
+Gérer le vainqueur en cas d’égalité
+Finir une partie avec l'ensemble des règles du jeu.
+  
+6ème Version : (date début : 10/04 - date fin : 17/04):
+
+Classement, Moyenne...
+Intégration de plusieurs robots 
+Réussir à exécuter 500 parties
+
+
+Tâches de la 1er version : 
+
+Le robot envoi son ouvrier travailler si il a assez d’écu sinon récupère des écus (validité des coups)
+L’objectif est qu’il achève un chantier 
+
+
+3 sous-tâches : 
+1. Représentation de jeu (représentation des bâtiments, des ouvriers, de l'argent, comptage des points, validité des coups).
+Définition et diagramme de classes métiers (liens entre elles)
+Création des classes (ouvrier, chantier, joueur, ressources)
+Tests unitaires des classes
+2. Moteur de jeu (mise en place, gestion des pioches, actions, détermination des points, de la fin de la partie...). → Création des actions
+Modélisation et création de la classe statique de plateau de jeu gérant les actions des tours
+3. Robots de jeu
+Modélisation et création de la classe IA simulant les décisions/actions 
+
