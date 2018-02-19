@@ -27,7 +27,7 @@ visualisation de l'état du jeu (en fin de partie pour commencer, tout au long d
 
 ## Equipe
 
-Numéro d'équipe : **JFlo**
+Numéro d'équipe : **J**
 
 ### Membres de l'équipe
 
@@ -37,5 +37,4 @@ Numéro d'équipe : **JFlo**
 * BARRY Ibrahima
 
 
-taches
 
