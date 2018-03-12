@@ -1,4 +1,4 @@
-1ère Version : (date début : 20/02 - date fin : 27/02):
+1ère Version : (date début : 20/02 - date fin : 27/02):	Achever un chantier
 
 Le robot a par défaut 3-4 ouvriers en sa possession 
 Le robot envoi son ouvrier travailler si il a assez d’écu sinon récupère des écus (validité des coups)
@@ -6,7 +6,7 @@ L’objectif est qu’il achève un chantier
 
 
 
-2ème Version : (date début : 27/02 - date fin : 13/03) :
+2ème Version : (date début : 27/02 - date fin : 13/03) : Mise en place des Pioches
 
 Si un ouvrier du centre à un coût inférieur au nombre d’écus que possède le joueur, il choisit l’action “ Recruter un ouvrier” 
 
@@ -16,23 +16,23 @@ Gestion de la bank (100 pièces)
 
 
 
-3ème Version : (date début : 13/03 - date fin : 20/03):
+3ème Version : (date début : 13/03 - date fin : 20/03): Mise en place du Client-Serveur
  Intégration des actions gratuites
  Création du client-serveur
  Gestion des points de victoires
 
 
 
-4ème Version :  (date début : 20/03 - date fin : 27/03)
+4ème Version :  (date début : 20/03 - date fin : 27/03): Mise en place des machines et gestion des actions payantes
  Implémentation des machines
  Gestion des actions payantes (5 écus par action)
 
-5ème Version : (date début : 27/03 - date fin : 10/04)
+5ème Version : (date début : 27/03 - date fin : 10/04) : Terminer une partie avec l'ensemble des règle du jeu
 
  Gérer le vainqueur en cas d’égalité
  Finir une partie avec l'ensemble des règles du jeu.
   
-6ème Version : (date début : 10/04 - date fin : 17/04):
+6ème Version : (date début : 10/04 - date fin : 17/04): Réussir à executer 500 parties
 
  Classement, Moyenne...
  Intégration de plusieurs robots 
